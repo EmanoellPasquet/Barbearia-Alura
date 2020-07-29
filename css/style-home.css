@@ -1,0 +1,52 @@
+#banner {
+    width: 100%;
+}
+
+.main {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+.main-titol {
+    padding-left: 20px;
+}
+
+.centered-titol {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background-color: white;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgbeneficios {
+    width: 50%;
+}
+
+footer {
+    margin: 0;
+    text-align: center;
+    background: url("../assets/img/bg.jpg");
+    padding: 40px 20px;
+}
+
+.copyright {
+    font-size: 13px;
+    color: white;
+}
